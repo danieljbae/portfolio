@@ -48,14 +48,14 @@ const Portfolio = () => {
                 </div>
 
                 {/* Structure for Project Grid, dynamic row/col format */}
-                <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0 pb-10">
+                <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
                     {/* Loop over array and Popukate grid */}
                     {portfolios.map(({ id, src, href }) => (
                         <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
                             <img
                                 src={src}
                                 alt=""
-                                className="rounded-md h-40 w-60 object-cover duration-200 hover:scale-105"
+                                className="rounded-md duration-200 hover:scale-105"
                             />
                             {/* Use anchor tags to make buttons clickable */}
                             <div className="flex items-center justify-center">
