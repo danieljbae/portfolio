@@ -19,20 +19,20 @@ const Experience = () => {
         {
             id: 1,
             src: python,
-            title: "python",
+            title: "Python",
             style: "shadow-blue-500",
         },
         {
             id: 2,
             src: javascript,
-            title: "javascript",
+            title: "JavaScript",
             style: "shadow-yellow-500",
         },
         {
             id: 3,
             src: reactImage,
-            title: "react",
-            style: "shadow-blue-500",
+            title: "React",
+            style: "shadow-sky-500",
         },
         {
             id: 4,
@@ -49,14 +49,14 @@ const Experience = () => {
         {
             id: 6,
             src: sql,
-            title: "sql",
-            style: "shadow-blue-300",
+            title: "SQL",
+            style: "shadow-blue-700",
         },
         {
             id: 7,
             src: aws,
-            title: "aws",
-            style: "shadow-yellow-300",
+            title: "AWS",
+            style: "shadow-orange-400",
         },
         {
             id: 8,
@@ -67,25 +67,25 @@ const Experience = () => {
         {
             id: 9,
             src: bash,
-            title: "bash",
+            title: "Bash",
             style: "shadow-green-400",
         },
         {
             id: 10,
             src: docker,
-            title: "GitHub",
-            style: "shadow-blue-400",
+            title: "Docker",
+            style: "shadow-sky-400",
         },
         {
             id: 11,
             src: kubernetes,
-            title: "kubernetes",
+            title: "Kubernetes",
             style: "shadow-blue-600",
         },
         {
             id: 12,
             src: jenkins,
-            title: "jenkins",
+            title: "Jenkins",
             style: "shadow-red-400",
         },
 
