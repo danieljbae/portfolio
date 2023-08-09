@@ -1,71 +1,80 @@
-# Getting Started with Create React App
+<!-- Project Logo or Banner -->
+<h3 style="text-align:center;font-weight: 300;" align="center">
+  <img src="src\assets\portfolio\logo_portfolio.jpg" width="160px">
+</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  <img src="https://img.shields.io/badge/React-v17.0.1-green">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-v3.3.3-green">
+</p>
 
-## Available Scripts
+# Portfolio 
 
-In the project directory, you can run:
+Portfolio web app made with **React**, **Tailwind** and deployed on **GitHub Pages**. 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Portfolio](#portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Technologies Used](#technologies-used)
+  - [Installation](#installation)
+  - [License](#license)
+  - [Contact](#contact)
 
-### `npm test`
+## Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Check out my web app here [danieljbae.github.io/portfolio](https://danieljbae.github.io/portfolio/)
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🚀 **Smooth Navigation:** Effortless browsing with smooth scrolling through portfolio sections. <br/>
+📱 **Responsive Design:** Seamlessly adapts to all devices: desktops, tablets, and phones. <br/>
+💌 **Form submissions:** Handle and receive form submissions via  [getform.io](https://getform.io/) <br/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+- React: A JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for building responsive and modern designs.
+- [gh-pages](https://www.npmjs.com/package/gh-pages): A package to deploy code to GitHub Pages.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repository.
+```
+git clone https://github.com/danieljbae/portfolio.git
+```
+2. Navigate to the project directory.
+``` 
+cd ./portfolio
+```
+3. Run `npm install` to install project dependencies.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+npm install
+```
+4. Run `npm start` to start the development server.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+npm start
+```
+5. Open browser and search `http://localhost:3000/portfolio`
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is open source and available under the [MIT License](LICENSE).
 
-### Code Splitting
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Feel free to contact me via email at daniel_bae@outlook.com or connect with me on [LinkedIn](https://www.linkedin.com/in/baedaniel/).
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# portfolio_webapp
+<p align="center">
+  Made with ❤️ by Daniel Bae
+</p>
