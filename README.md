@@ -22,6 +22,7 @@ Portfolio web app made with **React**, **Tailwind** and deployed on **GitHub Pag
   - [Features](#features)
   - [Technologies Used](#technologies-used)
   - [Installation](#installation)
+  - [Deploying](#deploying)
   - [License](#license)
   - [Contact](#contact)
 
@@ -63,6 +64,14 @@ npm install
 npm start
 ```
 5. Open browser and search `http://localhost:3000/portfolio`
+
+
+## Deploying
+
+To deploy a new version of the app, using github pages
+```
+npm run build
+```
 
 
 ## License
