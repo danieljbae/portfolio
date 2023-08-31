@@ -70,7 +70,7 @@ npm start
 
 To deploy a new version of the app, using github pages
 ```
-npm run build
+npm run build deploy
 ```
 
 
