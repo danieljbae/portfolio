@@ -13,13 +13,12 @@ const About = () => {
                     </p>
                 </div>
                 <p className="text-xl mt-10">
-                    Recent computer science graduate and technology industry professional with 2+ years of experience,
-                    transitioning into a Software Engineer or DevOps Engineer role.
+                    Passionate software engineer with 2+ years of experience in the software industry. Dedicated focus in Backend engineering and
+                    Data engineering. Proficient in constructing efficient backend solutions and developing data pipelines that generate meaningful insights.
                 </p>
                 <br />
                 <p className="text-xl">
-                    Skilled in automating software deployments, administering cloud environments, and scoping complex projects.
-                    Proficient in Python, SQL, and Bash, ready to drive innovation and success in the software engineering and DevOps domains.
+                    Let's connect and explore the captivating world of technology together!
                 </p>
             </div>
         </div>
