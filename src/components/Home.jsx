@@ -15,8 +15,8 @@ const Home = () => {
                         Software Engineer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        Proficient in Python, SQL, and Bash, ready to drive innovation
-                        and success in the software engineering and DevOps domains.
+                        Passionate software engineer with 2+ years of experience in the software industry.
+                        Dedicated focus in Backend engineering and Data engineering.
                     </p>
                     <div>
                         {/* Button linked to Portfolio, smooth scrolls down */}
